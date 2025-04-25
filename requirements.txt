@@ -1,7 +1,4 @@
-gradio
-requests
-beautifulsoup4
-google-search-results
-requests
-gradio
-google-api-python-client
+gradio==4.14.0
+google-api-python-client==2.116.0
+requests==2.31.0
+beautifulsoup4==4.12.3
