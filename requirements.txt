@@ -1,0 +1,7 @@
+gradio
+requests
+beautifulsoup4
+google-search-results
+requests
+gradio
+google-api-python-client
